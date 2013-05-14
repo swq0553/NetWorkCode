@@ -147,6 +147,8 @@
     <ClInclude Include="..\..\lib\WorkThread.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
     <None Include="res\NetTest.ico" />
     <None Include="res\NetTest.rc2" />
     <None Include="ReadMe.txt" />
